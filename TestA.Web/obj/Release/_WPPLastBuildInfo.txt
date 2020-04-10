@@ -1,0 +1,4 @@
+PlatformName=AnyCPU
+Configuration=Release
+WPPAllFilesInSingleFolder=D:\MDA\MDDPlatformWeb\code\jemmy@metashare.ca_7F5Od6\TestA\TestA.Web\obj\Release\Package\PackageTmp
+WebPublishProfileFile=
